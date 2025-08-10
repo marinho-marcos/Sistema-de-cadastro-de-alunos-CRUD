@@ -1,11 +1,11 @@
-📚 Sistema de Cadastro de Alunos (CRUD)
+# 📚 Sistema de Cadastro de Alunos (CRUD)
 
 > Aplicação de console para gerenciar o cadastro, consulta, atualização e exclusão de alunos, utilizando Java, Maven e PostgreSQL.
 
 ![Demonstração do Console](https://i.ibb.co/zhf7hDW4/console-crud-escola.png)
 ---
 
-📝 Sobre o Projeto
+## 📝 Sobre o Projeto
 
 Este projeto é uma aplicação Java que implementa as quatro operações básicas de persistência de dados (Create, Read, Update, Delete). Ele foi construído para demonstrar o uso de **JDBC** para comunicação com um banco de dados PostgreSQL, com todas as dependências gerenciadas pelo **Maven**.
 
@@ -13,30 +13,30 @@ A arquitetura segue o padrão **DAO (Data Access Object)** para separar as regra
 
 ---
 
-✨ Funcionalidades
+## ✨ Funcionalidades
 
 O menu da aplicação permite ao usuário executar as seguintes operações:
-* Inserir um novo aluno no banco de dados.
-* Atualizar os dados de um aluno existente a partir de seu ID.
-* Listar todos os alunos cadastrados.
-* Buscar um aluno específico pelo seu ID.
-* Deletar um aluno do banco de dados.
+* **Inserir um novo aluno** no banco de dados.
+* **Atualizar os dados** de um aluno existente a partir de seu ID.
+* **Listar todos os alunos** cadastrados.
+* **Buscar um aluno específico** pelo seu ID.
+* **Deletar um aluno** do banco de dados.
 
 ---
 
-🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
-* Linguagem: [Java 17](https://www.oracle.com/java/)
-* Banco de Dados: [PostgreSQL](https://www.postgresql.org/)
-* Comunicação com BD: [JDBC](https://www.oracle.com/java/technologies/javase/javase-tech-database.html)
-* Gerenciador de Dependências: [Maven](https://maven.apache.org/)
-* Versionamento: [Git](https://git-scm.com/)
+* **Linguagem:** [Java 17](https://www.oracle.com/java/)
+* **Banco de Dados:** [PostgreSQL](https://www.postgresql.org/)
+* **Comunicação com BD:** [JDBC](https://www.oracle.com/java/technologies/javase/javase-tech-database.html)
+* **Gerenciador de Dependências:** [Maven](https://maven.apache.org/)
+* **Versionamento:** [Git](https://git-scm.com/)
 
 ---
 
-▶️ Como Executar o Projeto
+## ▶️ Como Executar o Projeto
 
-Pré-requisitos
+### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 * [Git](https://git-scm.com)
